@@ -1,5 +1,5 @@
 {
-  "label": "Emulating x86 Windows",
+  "label": "Emulated VM",
   "position": 3,
   "link": {
     "type": "generated-index",
