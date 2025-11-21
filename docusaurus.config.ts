@@ -15,7 +15,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Marcus5408", // Usually your GitHub org/user name.
+  organizationName: "Camuise", // Usually your GitHub org/user name.
   projectName: "MultiSim-Guide", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/Marcus5408/MultiSim-Guide",
+            "https://github.com/Camuise/MultiSim-Guide",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -64,7 +64,7 @@ const config: Config = {
           label: "Tutorial",
         },
         {
-          href: "https://github.com/Marcus5408/MultiSim-Guide",
+          href: "https://github.com/Camuise/MultiSim-Guide",
           label: "GitHub",
           position: "right",
         },
@@ -87,11 +87,11 @@ const config: Config = {
           items: [
             {
               label: "GitHub Discussions",
-              href: "https://github.com/Marcus5408/MultiSim-Guide/discussions",
+              href: "https://github.com/Camuise/MultiSim-Guide/discussions",
             },
             {
               label: "Instagram DMs",
-              href: "https://instagram.com/matcha.vcf",
+              href: "https://instagram.com/camuise.png",
             },
             {
               label: "Email Me",
